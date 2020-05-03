@@ -14,11 +14,12 @@
  
  ## Requirements
 * Python 3.7
-* Download ChromeDriver from https://chromedriver.storage.googleapis.com/index.html?path=81.0.4044.69/ for your specific OS
+* Download ChromeDriver from 'https://chromedriver.chromium.org/' for your specific OS
 * Move ChromeDriver to the same location as your python version
 * Refer to __requirements.txt__ file 
 ```
  pip install -r requirements.txt
  ```
-
-
+ 
+ 
+ 
