@@ -6,7 +6,7 @@
 
 ## How to Run
 * Environment variables are being used for username and password:
-** Simply paste your usr and pwd as a string if you want to elimnate need of using envs variables
+* Simply paste your usr and pwd as a string if you want to elimnate need of using envs variables
 * Run the following command:
  ```
  python InstagramBot.py
