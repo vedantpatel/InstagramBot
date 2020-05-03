@@ -51,7 +51,7 @@ class CheckInsta:
         return names
 
 # Simply paste your usr and pwd as a string if you don't want to use Environement variables
-usr = os.environ.get('INSTA_USR')
-pwd = os.environ.get('INSTA_PWD')
+usr = os.environ.get('INSTA_USR') # usr = " "
+pwd = os.environ.get('INSTA_PWD') # pwd = " "
 followerBot = CheckInsta(usr, pwd)
 followerBot.get_instagram_stats()
